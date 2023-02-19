@@ -1,0 +1,13 @@
+stage {mvn install}
+}
+
+{
+pipline{sonar plugin}
+}
+{
+stage{" install git"}
+{
+}
+       starge{"install jenkins"}
+       stage{"jankins"}
+       
